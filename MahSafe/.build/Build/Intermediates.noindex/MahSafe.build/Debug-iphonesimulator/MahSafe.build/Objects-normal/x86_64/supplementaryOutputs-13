@@ -1,0 +1,37 @@
+{
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Timing.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Timing.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Timing.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Timing.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Timing.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Timing.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Utilities.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Utilities.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Utilities.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Utilities.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Utilities.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/Utilities.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/TileState.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileState.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileState.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileState.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileState.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileState.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/TileRack.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileRack.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileRack.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileRack.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileRack.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/x86_64/TileRack.swiftdeps"
+  }
+}

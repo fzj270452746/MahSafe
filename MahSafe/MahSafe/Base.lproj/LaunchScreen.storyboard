@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M A H J O N G" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VAU-LT-EY1">
+                                <rect key="frame" x="126" y="281" width="123" height="22"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="16"/>
+                                <color key="textColor" red="0.886" green="0.769" blue="0.494" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SAFE" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VAU-LT-TI2">
+                                <rect key="frame" x="128" y="307" width="119" height="57"/>
+                                <fontDescription key="fontDescription" name="AvenirNextCondensed-Bold" family="Avenir Next Condensed" pointSize="48"/>
+                                <color key="textColor" red="0.953" green="0.925" blue="0.867" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VAU-LT-LN3">
+                                <rect key="frame" x="147" y="378" width="81" height="1"/>
+                                <color key="backgroundColor" red="0.710" green="0.545" blue="0.275" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="VAU-LT-H01"/>
+                                    <constraint firstAttribute="width" constant="81" id="VAU-LT-W01"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.016" green="0.035" blue="0.031" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="VAU-LT-EY1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="VAU-LT-CX1"/>
+                            <constraint firstItem="VAU-LT-TI2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="VAU-LT-CX2"/>
+                            <constraint firstItem="VAU-LT-LN3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="VAU-LT-CX3"/>
+                            <constraint firstItem="VAU-LT-TI2" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="VAU-LT-CY1"/>
+                            <constraint firstItem="VAU-LT-EY1" firstAttribute="bottom" secondItem="VAU-LT-TI2" secondAttribute="top" constant="-4" id="VAU-LT-SP1"/>
+                            <constraint firstItem="VAU-LT-LN3" firstAttribute="top" secondItem="VAU-LT-TI2" secondAttribute="bottom" constant="14" id="VAU-LT-SP2"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+</document>

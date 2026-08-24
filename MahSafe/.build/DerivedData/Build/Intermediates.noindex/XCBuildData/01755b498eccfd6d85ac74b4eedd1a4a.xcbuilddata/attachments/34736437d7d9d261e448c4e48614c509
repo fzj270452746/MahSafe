@@ -1,0 +1,539 @@
+{
+  "" : {
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahSafe-primary.dia",
+    "emit-module-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahSafe-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahSafe-primary-emit-module.dia",
+    "pch" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahSafe-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahSafe-primary.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/AppDelegate.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/AudioManager.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/AudioManager~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/Haptics.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Haptics~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Extensions.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Layout.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Layout~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/PanelFactory.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PanelFactory~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/ParticleField.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ParticleField~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Theme.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Timing.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Timing~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Utilities.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Utilities~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameScene~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameSession~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameState.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameState~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/InputController.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/InputController~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/GameViewController.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/GameViewController~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/Level.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Level~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/LevelRepository.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelRepository~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/BackMark.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/BackMark~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongRenderer.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongRenderer~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongTile.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongTile~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongType.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MahjongType~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/DailyChallenge.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyChallenge~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/SaveManager.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SaveManager~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/Statistics.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Statistics~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/Puzzle.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/Puzzle~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleGenerator.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleGenerator~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleState.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleState~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleValidator.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/PuzzleValidator~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleEngine.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleEngine~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleKind.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleKind~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/TileState.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileState~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeBolts.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeBolts~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeDoor.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeDoor~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeHandle.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeHandle~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeLock.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeLock~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SafeNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/SceneDelegate.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ButtonNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ButtonNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ChapterIntroNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ChapterIntroNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ConfirmDialogNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ConfirmDialogNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/DailyNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/DailyNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/HUDNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/HUDNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/LevelSelectNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/LevelSelectNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/MainMenuNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/MainMenuNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/OnboardingNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/OnboardingNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ResultNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/ResultNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RuleBannerNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RuleBannerNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RulesReferenceNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/RulesReferenceNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/SettingsNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/SettingsNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StarNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StarNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StatisticsNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/StatisticsNode~partial.swiftmodule"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/TileRack.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.dia",
+    "index-unit-output-path" : "/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.o",
+    "llvm-bc" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.bc",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack.swiftdeps",
+    "swiftmodule" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/DerivedData/Build/Intermediates.noindex/MahSafe.build/Debug-iphonesimulator/MahSafe.build/Objects-normal/arm64/TileRack~partial.swiftmodule"
+  }
+}

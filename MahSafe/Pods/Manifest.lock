@@ -1,0 +1,26 @@
+PODS:
+  - AppsFlyerFramework (7.0.1):
+    - AppsFlyerFramework/Main (= 7.0.1)
+  - AppsFlyerFramework/Main (7.0.1)
+  - ReachabilitySwift (5.2.4)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - AppsFlyerFramework
+  - ReachabilitySwift
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - AppsFlyerFramework
+    - ReachabilitySwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  AppsFlyerFramework: 5fbe1765e5cf2a6b6ee4d170e6992881ce3c251f
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 6c3e397e6eb07a640992983f3cef32f64c814ff1
+
+COCOAPODS: 1.16.2

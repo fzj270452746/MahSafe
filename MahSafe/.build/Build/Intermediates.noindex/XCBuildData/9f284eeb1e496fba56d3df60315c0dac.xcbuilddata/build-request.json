@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d6c916cf9d3369e471dbe3c155146313cfd36337683248885622e8e02f69af77"
+    }
+  ],
+  "containerPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products",
+      "derivedDataPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build",
+      "indexDataStoreFolderPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "SDKROOT" : "iphonesimulator26.5"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

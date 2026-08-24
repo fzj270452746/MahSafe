@@ -1,0 +1,37 @@
+{
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleGenerator.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleGenerator.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleState.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleState.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleState.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleState.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleState.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleState.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleValidator.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleValidator.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleValidator.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleValidator.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleValidator.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/PuzzleValidator.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ResultNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/ResultNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/ResultNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/ResultNode.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/ResultNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/ResultNode.swiftdeps"
+  },
+  "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RuleBannerNode.swift" : {
+    "const-values" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/RuleBannerNode.swiftconstvalues",
+    "dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/RuleBannerNode.d",
+    "diagnostics" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/RuleBannerNode.dia",
+    "object" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/RuleBannerNode.o",
+    "swift-dependencies" : "/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/RuleBannerNode.swiftdeps"
+  }
+}

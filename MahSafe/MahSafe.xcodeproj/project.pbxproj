@@ -1,0 +1,765 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00B35581A82FD58B57BEB905 /* MahjongType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE7568662A3C6E0038E74F9 /* MahjongType.swift */; };
+		00C17DF807963F137673C536 /* Statistics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26E64054D8AD7CBD6B992CA3 /* Statistics.swift */; };
+		0775C835228694167EF730F9 /* InputController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7D29387C6AB651595C732E8 /* InputController.swift */; };
+		0C89946814B99B8C352C80C9 /* TileState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98043377110A028C5D18C76 /* TileState.swift */; };
+		10A91CDAC00F2AEFFCDD656C /* DailyChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2E094FDC609395310A2ECE9 /* DailyChallenge.swift */; };
+		10D640BB568ADE802822D9FD /* Timing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D43B21EACC89383631FD8B8 /* Timing.swift */; };
+		1A10476594ABA084F1E9168D /* BlitzGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8432D3D08FF76D2880F69B4A /* BlitzGenerator.swift */; };
+		21A64F173FB61112AF21976A /* RulesReferenceNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71951524B6AD7EDB6996FEA9 /* RulesReferenceNode.swift */; };
+		233428AFC7996156676057D0 /* TableSurfaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2081F5575E748577EF29A91 /* TableSurfaces.swift */; };
+		23997D0C724AFFA22FC126E4 /* MainMenuNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025C0BBB3C5ECF6215B980BD /* MainMenuNode.swift */; };
+		26BEE84566F1BB003A593865 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CD39B70A11FB98CC15ACD34 /* LaunchScreen.storyboard */; };
+		28637091303BFD9300E59A4B /* SafeGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2863708F303BFD9300E59A4B /* SafeGameView.swift */; };
+		28637092303BFD9300E59A4B /* SafeManagers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28637090303BFD9300E59A4B /* SafeManagers.swift */; };
+		29B29C0119EF55E0053A57B0 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F44982259D8C6D45E95D579 /* Haptics.swift */; };
+		2B99EF4690803C22793E4511 /* ButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F7285CD5F3569F39137CFF /* ButtonNode.swift */; };
+		2E7646EAF4CAFD3C634EBB45 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FED135C1EAB065975004F0 /* Theme.swift */; };
+		305A87EDE24B72A35F54E643 /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF51FBFE182AF054D30E28C /* Level.swift */; };
+		33FEFE737F8D30AC1EDA6640 /* TileRack.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF97EC5B660FE8FB84695C7 /* TileRack.swift */; };
+		352F11FB5D2D89443D17A48E /* BlitzRun.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5043902149153311AE65785 /* BlitzRun.swift */; };
+		388F321FDF2F1F44299C362F /* Puzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB3A61BCB95090ABC63BE69 /* Puzzle.swift */; };
+		39031AE145F3B6AAD186E81F /* BackMark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 263BFE16BF852CF3EC9BE385 /* BackMark.swift */; };
+		3A9B1BFFE9D86BFBA000225B /* MahjongRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9360535278FEB39E96B4E44 /* MahjongRenderer.swift */; };
+		3C9CC67C773B9D3BC759558B /* StatisticsNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 624FAED91A83BD1D7670D7AA /* StatisticsNode.swift */; };
+		3CF79F6682EA8F49FD2CEF3A /* ResultNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 792E4F52E2C6EE6CE32F7065 /* ResultNode.swift */; };
+		3F273B9F4728A4E7C785BFE4 /* Pods_MahSafe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17D1783AF5175D3B8483D4E7 /* Pods_MahSafe.framework */; };
+		4476E7EDF83990B57095C474 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7BB8C077DADDD89C5E1549 /* SceneDelegate.swift */; };
+		462F7BB9D68B830A5541EA7E /* SaveManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2208D04936F6F8CE40981059 /* SaveManager.swift */; };
+		4C353C03590A82A517D651D2 /* SettingsNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3B7418A2CF99379BC9F51F /* SettingsNode.swift */; };
+		4E7E84266EFF385FFE1937D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DB742A20740081ED48B440 /* AppDelegate.swift */; };
+		50FD93CCD20B31AAF2CE5C17 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = E84BA5822519FB8A20838F00 /* Utilities.swift */; };
+		5A5FA1A947484FE344612E16 /* SafeHandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA78807B16C99AFD20AE2A3C /* SafeHandle.swift */; };
+		630014627C91249D07FEB22C /* SafeLock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BA633CFAB7E4FF99D2C3C7 /* SafeLock.swift */; };
+		6B4ECC28754629D71922EDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF67B23F617CA6697E204E34 /* Assets.xcassets */; };
+		76C26E46CD24B26C19BE253D /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27C96BE887166EF3CAC9AB39 /* GameScene.swift */; };
+		796ED4404A72626E9543013F /* HUDNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCBF1031C422AC25A056C837 /* HUDNode.swift */; };
+		87683D6FBBA4BC3A6D2B1A15 /* StarNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DECE564D0832ADCB4EE1AEC /* StarNode.swift */; };
+		87EFB88BC8E6A05E0258E934 /* PuzzleValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B08E9B2E5A37D4D532A940 /* PuzzleValidator.swift */; };
+		8F70DFA5D4F3C0D398E0CF1A /* GameXMLService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A6D0D7C66C1B8E5E1E7A2F4 /* GameXMLService.swift */; };
+		93F4DAAF3D368E069A74AB69 /* ChapterIntroNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42636FA1CD4E1C02AB8C1DF6 /* ChapterIntroNode.swift */; };
+		9777833B021E553FABB69D97 /* PuzzleGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54AABFB74960225C51E8E5DF /* PuzzleGenerator.swift */; };
+		97B99DA3D28573D8D68EDF7B /* TableFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40CB6A0B17405A2B8C2C7B76 /* TableFlow.swift */; };
+		9C243C000160F9C2A69EC91A /* Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04ED94DD3762F53519A0DB1 /* Layout.swift */; };
+		A1EF099B0C449BF5238E6097 /* BlitzResultNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F49C389C8C8ADECE851F5DD /* BlitzResultNode.swift */; };
+		A46DE116E15A711513F7A393 /* DailyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4859242C7E6404FF8F4C38D /* DailyNode.swift */; };
+		A86E6C563E055F30FE28A4D9 /* RuleKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 097AC23BD4C8CEC2122DA6DC /* RuleKind.swift */; };
+		AC53116C2972B12AC30E9887 /* RuleBannerNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43267E1D13195E5BB2D7CB5 /* RuleBannerNode.swift */; };
+		AD038405F41AAB2EB5976978 /* GameState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C437A3A7769DA28DDA692F7C /* GameState.swift */; };
+		BE905D9678B28A23FCE13FA7 /* MahjongTile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C130041A456E8159DD6D7310 /* MahjongTile.swift */; };
+		BFB9511E0E490FF8CD266D01 /* RuleEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = C13A50CA8FC1896681C31B72 /* RuleEngine.swift */; };
+		C4F32756C8E9793C6AEFFDC6 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F75EC2C73972460A47405F71 /* GameViewController.swift */; };
+		D06E4BEB19509A9F1E3094AF /* BlitzNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32717FCDFAD592A0B84D241 /* BlitzNode.swift */; };
+		D717E27C52373383412AEDD5 /* LevelRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = E06A4DC0C60F9BF1504452E1 /* LevelRepository.swift */; };
+		DA76627EA4A29DF970894F69 /* PuzzleState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCAA4A1D45CF884F4FD1F1E /* PuzzleState.swift */; };
+		DB3221B2DFD4BC1D14FB0634 /* ParticleField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9D6DD5BF0963F4CD758B21A /* ParticleField.swift */; };
+		DBEEE0F0B6E03E714D3F558E /* SafeBolts.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB26B62F6C5C08B71CC6751 /* SafeBolts.swift */; };
+		DF977B54D0822CEFD281B46D /* ConfirmDialogNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800F254B1B94EDAC3CE30530 /* ConfirmDialogNode.swift */; };
+		E6C022B515B140AFD5C1BD36 /* LevelSelectNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 545D5EA31BA01A02E64028FA /* LevelSelectNode.swift */; };
+		EB4DE2AFB20EE15E333F2942 /* OnboardingNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BA73B8BDD32D0B7D625824 /* OnboardingNode.swift */; };
+		EEC2009DCE27DFB2B56BCE14 /* BlitzManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFBC701777B328A15A6BCE7 /* BlitzManager.swift */; };
+		F67429C396AA17688674DD05 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339816A66ECBD7FD168881D3 /* Extensions.swift */; };
+		F7BDA6A5A15BAEE8FB4986F2 /* AudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B8D3EE25942F534D6680ECB /* AudioManager.swift */; };
+		F8C74806F45A022EA1B8ECE1 /* SafeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8F536BBC46F1B80A138E8C /* SafeNode.swift */; };
+		FA8C8F8A22C69F354B60D00F /* SafeDoor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828122C70D513D0D3EFFBB54 /* SafeDoor.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		01B08E9B2E5A37D4D532A940 /* PuzzleValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleValidator.swift; sourceTree = "<group>"; };
+		025C0BBB3C5ECF6215B980BD /* MainMenuNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuNode.swift; sourceTree = "<group>"; };
+		068D111F2BAB6DDFF0A973F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		097AC23BD4C8CEC2122DA6DC /* RuleKind.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RuleKind.swift; sourceTree = "<group>"; };
+		0D8F536BBC46F1B80A138E8C /* SafeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeNode.swift; sourceTree = "<group>"; };
+		17D1783AF5175D3B8483D4E7 /* Pods_MahSafe.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MahSafe.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		17F50E161FB3919EB167BD77 /* Pods-MahSafe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MahSafe.debug.xcconfig"; path = "Target Support Files/Pods-MahSafe/Pods-MahSafe.debug.xcconfig"; sourceTree = "<group>"; };
+		2208D04936F6F8CE40981059 /* SaveManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveManager.swift; sourceTree = "<group>"; };
+		263BFE16BF852CF3EC9BE385 /* BackMark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackMark.swift; sourceTree = "<group>"; };
+		26E64054D8AD7CBD6B992CA3 /* Statistics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Statistics.swift; sourceTree = "<group>"; };
+		27C96BE887166EF3CAC9AB39 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		2863708F303BFD9300E59A4B /* SafeGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeGameView.swift; sourceTree = "<group>"; };
+		28637090303BFD9300E59A4B /* SafeManagers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeManagers.swift; sourceTree = "<group>"; };
+		2F49C389C8C8ADECE851F5DD /* BlitzResultNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzResultNode.swift; sourceTree = "<group>"; };
+		339816A66ECBD7FD168881D3 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		3DECE564D0832ADCB4EE1AEC /* StarNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarNode.swift; sourceTree = "<group>"; };
+		40CB6A0B17405A2B8C2C7B76 /* TableFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableFlow.swift; sourceTree = "<group>"; };
+		42636FA1CD4E1C02AB8C1DF6 /* ChapterIntroNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterIntroNode.swift; sourceTree = "<group>"; };
+		45BA633CFAB7E4FF99D2C3C7 /* SafeLock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeLock.swift; sourceTree = "<group>"; };
+		4D43B21EACC89383631FD8B8 /* Timing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timing.swift; sourceTree = "<group>"; };
+		4F44982259D8C6D45E95D579 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
+		507540FB4D8EEDE26939882B /* Pods-MahSafe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MahSafe.release.xcconfig"; path = "Target Support Files/Pods-MahSafe/Pods-MahSafe.release.xcconfig"; sourceTree = "<group>"; };
+		50F7285CD5F3569F39137CFF /* ButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNode.swift; sourceTree = "<group>"; };
+		545D5EA31BA01A02E64028FA /* LevelSelectNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelSelectNode.swift; sourceTree = "<group>"; };
+		54AABFB74960225C51E8E5DF /* PuzzleGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleGenerator.swift; sourceTree = "<group>"; };
+		6167CD8F80C2495C1DCB7029 /* MahSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MahSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		624FAED91A83BD1D7670D7AA /* StatisticsNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsNode.swift; sourceTree = "<group>"; };
+		6B8D3EE25942F534D6680ECB /* AudioManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioManager.swift; sourceTree = "<group>"; };
+		6BE7568662A3C6E0038E74F9 /* MahjongType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MahjongType.swift; sourceTree = "<group>"; };
+		71951524B6AD7EDB6996FEA9 /* RulesReferenceNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesReferenceNode.swift; sourceTree = "<group>"; };
+		74BA73B8BDD32D0B7D625824 /* OnboardingNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingNode.swift; sourceTree = "<group>"; };
+		792E4F52E2C6EE6CE32F7065 /* ResultNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultNode.swift; sourceTree = "<group>"; };
+		7CCAA4A1D45CF884F4FD1F1E /* PuzzleState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleState.swift; sourceTree = "<group>"; };
+		800F254B1B94EDAC3CE30530 /* ConfirmDialogNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmDialogNode.swift; sourceTree = "<group>"; };
+		828122C70D513D0D3EFFBB54 /* SafeDoor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeDoor.swift; sourceTree = "<group>"; };
+		8432D3D08FF76D2880F69B4A /* BlitzGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzGenerator.swift; sourceTree = "<group>"; };
+		86FED135C1EAB065975004F0 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		9A6D0D7C66C1B8E5E1E7A2F4 /* GameXMLService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameXMLService.swift; sourceTree = "<group>"; };
+		9DB3A61BCB95090ABC63BE69 /* Puzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Puzzle.swift; sourceTree = "<group>"; };
+		A4859242C7E6404FF8F4C38D /* DailyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyNode.swift; sourceTree = "<group>"; };
+		A9360535278FEB39E96B4E44 /* MahjongRenderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MahjongRenderer.swift; sourceTree = "<group>"; };
+		AAF51FBFE182AF054D30E28C /* Level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
+		AAF97EC5B660FE8FB84695C7 /* TileRack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TileRack.swift; sourceTree = "<group>"; };
+		B2E094FDC609395310A2ECE9 /* DailyChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyChallenge.swift; sourceTree = "<group>"; };
+		B4DB742A20740081ED48B440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B98043377110A028C5D18C76 /* TileState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TileState.swift; sourceTree = "<group>"; };
+		B9D6DD5BF0963F4CD758B21A /* ParticleField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParticleField.swift; sourceTree = "<group>"; };
+		BD3B7418A2CF99379BC9F51F /* SettingsNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsNode.swift; sourceTree = "<group>"; };
+		C04ED94DD3762F53519A0DB1 /* Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Layout.swift; sourceTree = "<group>"; };
+		C130041A456E8159DD6D7310 /* MahjongTile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MahjongTile.swift; sourceTree = "<group>"; };
+		C13A50CA8FC1896681C31B72 /* RuleEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RuleEngine.swift; sourceTree = "<group>"; };
+		C2081F5575E748577EF29A91 /* TableSurfaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableSurfaces.swift; sourceTree = "<group>"; };
+		C43267E1D13195E5BB2D7CB5 /* RuleBannerNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RuleBannerNode.swift; sourceTree = "<group>"; };
+		C437A3A7769DA28DDA692F7C /* GameState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
+		C7D29387C6AB651595C732E8 /* InputController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputController.swift; sourceTree = "<group>"; };
+		CA78807B16C99AFD20AE2A3C /* SafeHandle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeHandle.swift; sourceTree = "<group>"; };
+		CCBF1031C422AC25A056C837 /* HUDNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HUDNode.swift; sourceTree = "<group>"; };
+		CDFBC701777B328A15A6BCE7 /* BlitzManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzManager.swift; sourceTree = "<group>"; };
+		CE7BB8C077DADDD89C5E1549 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D32717FCDFAD592A0B84D241 /* BlitzNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzNode.swift; sourceTree = "<group>"; };
+		DDB26B62F6C5C08B71CC6751 /* SafeBolts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeBolts.swift; sourceTree = "<group>"; };
+		DF67B23F617CA6697E204E34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E06A4DC0C60F9BF1504452E1 /* LevelRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelRepository.swift; sourceTree = "<group>"; };
+		E5043902149153311AE65785 /* BlitzRun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlitzRun.swift; sourceTree = "<group>"; };
+		E50762ED32C220C157F21313 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		E84BA5822519FB8A20838F00 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		F75EC2C73972460A47405F71 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		19CF2102799F4853A2501CB2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F273B9F4728A4E7C785BFE4 /* Pods_MahSafe.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		10177B98B1ED47224B8E8816 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				CDFBC701777B328A15A6BCE7 /* BlitzManager.swift */,
+				B2E094FDC609395310A2ECE9 /* DailyChallenge.swift */,
+				2208D04936F6F8CE40981059 /* SaveManager.swift */,
+				26E64054D8AD7CBD6B992CA3 /* Statistics.swift */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		12C820C1EF4365424EE91A16 /* Mahjong */ = {
+			isa = PBXGroup;
+			children = (
+				263BFE16BF852CF3EC9BE385 /* BackMark.swift */,
+				A9360535278FEB39E96B4E44 /* MahjongRenderer.swift */,
+				C130041A456E8159DD6D7310 /* MahjongTile.swift */,
+				6BE7568662A3C6E0038E74F9 /* MahjongType.swift */,
+			);
+			path = Mahjong;
+			sourceTree = "<group>";
+		};
+		193C9AEA0F7069799FB1BB17 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				339816A66ECBD7FD168881D3 /* Extensions.swift */,
+				C04ED94DD3762F53519A0DB1 /* Layout.swift */,
+				C2081F5575E748577EF29A91 /* TableSurfaces.swift */,
+				B9D6DD5BF0963F4CD758B21A /* ParticleField.swift */,
+				86FED135C1EAB065975004F0 /* Theme.swift */,
+				4D43B21EACC89383631FD8B8 /* Timing.swift */,
+				E84BA5822519FB8A20838F00 /* Utilities.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		1B7E213D9CD773AA0D97DC95 /* Puzzle */ = {
+			isa = PBXGroup;
+			children = (
+				8432D3D08FF76D2880F69B4A /* BlitzGenerator.swift */,
+				9DB3A61BCB95090ABC63BE69 /* Puzzle.swift */,
+				54AABFB74960225C51E8E5DF /* PuzzleGenerator.swift */,
+				7CCAA4A1D45CF884F4FD1F1E /* PuzzleState.swift */,
+				01B08E9B2E5A37D4D532A940 /* PuzzleValidator.swift */,
+				C13A50CA8FC1896681C31B72 /* RuleEngine.swift */,
+				097AC23BD4C8CEC2122DA6DC /* RuleKind.swift */,
+				B98043377110A028C5D18C76 /* TileState.swift */,
+			);
+			path = Puzzle;
+			sourceTree = "<group>";
+		};
+		39543A37946F1B7347A13836 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				17F50E161FB3919EB167BD77 /* Pods-MahSafe.debug.xcconfig */,
+				507540FB4D8EEDE26939882B /* Pods-MahSafe.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		44E1EF358743BF88FA972CC5 = {
+			isa = PBXGroup;
+			children = (
+				990C30DCBE133AC12F2A8AA8 /* MahSafe */,
+				C013C1A1AE9E23D75E443F91 /* Products */,
+				39543A37946F1B7347A13836 /* Pods */,
+				AE27A343A7E30AD9B66DA693 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		47A794A3A794F7ACDF3B3BDF /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				E5043902149153311AE65785 /* BlitzRun.swift */,
+				27C96BE887166EF3CAC9AB39 /* GameScene.swift */,
+				40CB6A0B17405A2B8C2C7B76 /* TableFlow.swift */,
+				C437A3A7769DA28DDA692F7C /* GameState.swift */,
+				C7D29387C6AB651595C732E8 /* InputController.swift */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		6933FE32FAFFDE7FFD3D8A8F /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				6B8D3EE25942F534D6680ECB /* AudioManager.swift */,
+				4F44982259D8C6D45E95D579 /* Haptics.swift */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		891ABC9CDCFD68E135C7B69D /* Level */ = {
+			isa = PBXGroup;
+			children = (
+				AAF51FBFE182AF054D30E28C /* Level.swift */,
+				E06A4DC0C60F9BF1504452E1 /* LevelRepository.swift */,
+			);
+			path = Level;
+			sourceTree = "<group>";
+		};
+		990C30DCBE133AC12F2A8AA8 /* MahSafe */ = {
+			isa = PBXGroup;
+			children = (
+				6933FE32FAFFDE7FFD3D8A8F /* Audio */,
+				193C9AEA0F7069799FB1BB17 /* Common */,
+				47A794A3A794F7ACDF3B3BDF /* Game */,
+				891ABC9CDCFD68E135C7B69D /* Level */,
+				12C820C1EF4365424EE91A16 /* Mahjong */,
+				A1B2C3D4E5F60718293A4B5C /* Network */,
+				10177B98B1ED47224B8E8816 /* Persistence */,
+				1B7E213D9CD773AA0D97DC95 /* Puzzle */,
+				D764D35341A07CF30B95B09D /* Safe */,
+				F8C9B01BFE140AA014877889 /* UI */,
+				B4DB742A20740081ED48B440 /* AppDelegate.swift */,
+				DF67B23F617CA6697E204E34 /* Assets.xcassets */,
+				F75EC2C73972460A47405F71 /* GameViewController.swift */,
+				E50762ED32C220C157F21313 /* Info.plist */,
+				1CD39B70A11FB98CC15ACD34 /* LaunchScreen.storyboard */,
+				CE7BB8C077DADDD89C5E1549 /* SceneDelegate.swift */,
+			);
+			path = MahSafe;
+			sourceTree = "<group>";
+		};
+		A1B2C3D4E5F60718293A4B5C /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				2863708F303BFD9300E59A4B /* SafeGameView.swift */,
+				28637090303BFD9300E59A4B /* SafeManagers.swift */,
+				9A6D0D7C66C1B8E5E1E7A2F4 /* GameXMLService.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		AE27A343A7E30AD9B66DA693 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17D1783AF5175D3B8483D4E7 /* Pods_MahSafe.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C013C1A1AE9E23D75E443F91 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6167CD8F80C2495C1DCB7029 /* MahSafe.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D764D35341A07CF30B95B09D /* Safe */ = {
+			isa = PBXGroup;
+			children = (
+				DDB26B62F6C5C08B71CC6751 /* SafeBolts.swift */,
+				828122C70D513D0D3EFFBB54 /* SafeDoor.swift */,
+				CA78807B16C99AFD20AE2A3C /* SafeHandle.swift */,
+				45BA633CFAB7E4FF99D2C3C7 /* SafeLock.swift */,
+				0D8F536BBC46F1B80A138E8C /* SafeNode.swift */,
+			);
+			path = Safe;
+			sourceTree = "<group>";
+		};
+		F8C9B01BFE140AA014877889 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				D32717FCDFAD592A0B84D241 /* BlitzNode.swift */,
+				2F49C389C8C8ADECE851F5DD /* BlitzResultNode.swift */,
+				50F7285CD5F3569F39137CFF /* ButtonNode.swift */,
+				42636FA1CD4E1C02AB8C1DF6 /* ChapterIntroNode.swift */,
+				800F254B1B94EDAC3CE30530 /* ConfirmDialogNode.swift */,
+				A4859242C7E6404FF8F4C38D /* DailyNode.swift */,
+				CCBF1031C422AC25A056C837 /* HUDNode.swift */,
+				545D5EA31BA01A02E64028FA /* LevelSelectNode.swift */,
+				025C0BBB3C5ECF6215B980BD /* MainMenuNode.swift */,
+				74BA73B8BDD32D0B7D625824 /* OnboardingNode.swift */,
+				792E4F52E2C6EE6CE32F7065 /* ResultNode.swift */,
+				C43267E1D13195E5BB2D7CB5 /* RuleBannerNode.swift */,
+				71951524B6AD7EDB6996FEA9 /* RulesReferenceNode.swift */,
+				BD3B7418A2CF99379BC9F51F /* SettingsNode.swift */,
+				3DECE564D0832ADCB4EE1AEC /* StarNode.swift */,
+				624FAED91A83BD1D7670D7AA /* StatisticsNode.swift */,
+				AAF97EC5B660FE8FB84695C7 /* TileRack.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DFA933E06629FF35247CD7DB /* MahSafe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D97CEC46DB75AD02407C8E7E /* Build configuration list for PBXNativeTarget "MahSafe" */;
+			buildPhases = (
+				E4986503071E82005AA07298 /* [CP] Check Pods Manifest.lock */,
+				2CC23EEE340527A1F7D414EA /* Sources */,
+				B3E4B19F0A9C96CDD03D391C /* Resources */,
+				19CF2102799F4853A2501CB2 /* Frameworks */,
+				0005E8399D6CCED261043335 /* [CP] Embed Pods Frameworks */,
+				1C95069C897F89B542079A0B /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MahSafe;
+			productName = MahSafe;
+			productReference = 6167CD8F80C2495C1DCB7029 /* MahSafe.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D0D663EF7478859AE64806E7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = 0AD875EB2A4D36E3F16C1747 /* Build configuration list for PBXProject "MahSafe" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 44E1EF358743BF88FA972CC5;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C013C1A1AE9E23D75E443F91 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DFA933E06629FF35247CD7DB /* MahSafe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B3E4B19F0A9C96CDD03D391C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B4ECC28754629D71922EDD8 /* Assets.xcassets in Resources */,
+				26BEE84566F1BB003A593865 /* LaunchScreen.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0005E8399D6CCED261043335 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1C95069C897F89B542079A0B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MahSafe/Pods-MahSafe-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E4986503071E82005AA07298 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MahSafe-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2CC23EEE340527A1F7D414EA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E7E84266EFF385FFE1937D9 /* AppDelegate.swift in Sources */,
+				F7BDA6A5A15BAEE8FB4986F2 /* AudioManager.swift in Sources */,
+				39031AE145F3B6AAD186E81F /* BackMark.swift in Sources */,
+				1A10476594ABA084F1E9168D /* BlitzGenerator.swift in Sources */,
+				EEC2009DCE27DFB2B56BCE14 /* BlitzManager.swift in Sources */,
+				D06E4BEB19509A9F1E3094AF /* BlitzNode.swift in Sources */,
+				A1EF099B0C449BF5238E6097 /* BlitzResultNode.swift in Sources */,
+				352F11FB5D2D89443D17A48E /* BlitzRun.swift in Sources */,
+				2B99EF4690803C22793E4511 /* ButtonNode.swift in Sources */,
+				93F4DAAF3D368E069A74AB69 /* ChapterIntroNode.swift in Sources */,
+				DF977B54D0822CEFD281B46D /* ConfirmDialogNode.swift in Sources */,
+				10A91CDAC00F2AEFFCDD656C /* DailyChallenge.swift in Sources */,
+				A46DE116E15A711513F7A393 /* DailyNode.swift in Sources */,
+				F67429C396AA17688674DD05 /* Extensions.swift in Sources */,
+				76C26E46CD24B26C19BE253D /* GameScene.swift in Sources */,
+				97B99DA3D28573D8D68EDF7B /* TableFlow.swift in Sources */,
+				AD038405F41AAB2EB5976978 /* GameState.swift in Sources */,
+				C4F32756C8E9793C6AEFFDC6 /* GameViewController.swift in Sources */,
+				796ED4404A72626E9543013F /* HUDNode.swift in Sources */,
+				8F70DFA5D4F3C0D398E0CF1A /* GameXMLService.swift in Sources */,
+				29B29C0119EF55E0053A57B0 /* Haptics.swift in Sources */,
+				0775C835228694167EF730F9 /* InputController.swift in Sources */,
+				9C243C000160F9C2A69EC91A /* Layout.swift in Sources */,
+				305A87EDE24B72A35F54E643 /* Level.swift in Sources */,
+				D717E27C52373383412AEDD5 /* LevelRepository.swift in Sources */,
+				E6C022B515B140AFD5C1BD36 /* LevelSelectNode.swift in Sources */,
+				3A9B1BFFE9D86BFBA000225B /* MahjongRenderer.swift in Sources */,
+				28637091303BFD9300E59A4B /* SafeGameView.swift in Sources */,
+				28637092303BFD9300E59A4B /* SafeManagers.swift in Sources */,
+				BE905D9678B28A23FCE13FA7 /* MahjongTile.swift in Sources */,
+				00B35581A82FD58B57BEB905 /* MahjongType.swift in Sources */,
+				23997D0C724AFFA22FC126E4 /* MainMenuNode.swift in Sources */,
+				EB4DE2AFB20EE15E333F2942 /* OnboardingNode.swift in Sources */,
+				233428AFC7996156676057D0 /* TableSurfaces.swift in Sources */,
+				DB3221B2DFD4BC1D14FB0634 /* ParticleField.swift in Sources */,
+				388F321FDF2F1F44299C362F /* Puzzle.swift in Sources */,
+				9777833B021E553FABB69D97 /* PuzzleGenerator.swift in Sources */,
+				DA76627EA4A29DF970894F69 /* PuzzleState.swift in Sources */,
+				87EFB88BC8E6A05E0258E934 /* PuzzleValidator.swift in Sources */,
+				3CF79F6682EA8F49FD2CEF3A /* ResultNode.swift in Sources */,
+				AC53116C2972B12AC30E9887 /* RuleBannerNode.swift in Sources */,
+				BFB9511E0E490FF8CD266D01 /* RuleEngine.swift in Sources */,
+				A86E6C563E055F30FE28A4D9 /* RuleKind.swift in Sources */,
+				21A64F173FB61112AF21976A /* RulesReferenceNode.swift in Sources */,
+				DBEEE0F0B6E03E714D3F558E /* SafeBolts.swift in Sources */,
+				FA8C8F8A22C69F354B60D00F /* SafeDoor.swift in Sources */,
+				5A5FA1A947484FE344612E16 /* SafeHandle.swift in Sources */,
+				630014627C91249D07FEB22C /* SafeLock.swift in Sources */,
+				F8C74806F45A022EA1B8ECE1 /* SafeNode.swift in Sources */,
+				462F7BB9D68B830A5541EA7E /* SaveManager.swift in Sources */,
+				4476E7EDF83990B57095C474 /* SceneDelegate.swift in Sources */,
+				4C353C03590A82A517D651D2 /* SettingsNode.swift in Sources */,
+				87683D6FBBA4BC3A6D2B1A15 /* StarNode.swift in Sources */,
+				00C17DF807963F137673C536 /* Statistics.swift in Sources */,
+				3C9CC67C773B9D3BC759558B /* StatisticsNode.swift in Sources */,
+				2E7646EAF4CAFD3C634EBB45 /* Theme.swift in Sources */,
+				33FEFE737F8D30AC1EDA6640 /* TileRack.swift in Sources */,
+				0C89946814B99B8C352C80C9 /* TileState.swift in Sources */,
+				10D640BB568ADE802822D9FD /* Timing.swift in Sources */,
+				50FD93CCD20B31AAF2CE5C17 /* Utilities.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1CD39B70A11FB98CC15ACD34 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				068D111F2BAB6DDFF0A973F8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2D6E3360ED14AB42CF27A537 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		33881FEDD5DC8B77A2A3C88F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 17F50E161FB3919EB167BD77 /* Pods-MahSafe.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = MahSafe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = MahSafe;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.safe.MahSafe;
+				PRODUCT_NAME = MahSafe;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		BBC9CE23ED5F2CA71A26AD6D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		FC0D87AC0E8859C5BF161B4B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 507540FB4D8EEDE26939882B /* Pods-MahSafe.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = MahSafe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = MahSafe;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.safe.MahSafe;
+				PRODUCT_NAME = MahSafe;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0AD875EB2A4D36E3F16C1747 /* Build configuration list for PBXProject "MahSafe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BBC9CE23ED5F2CA71A26AD6D /* Debug */,
+				2D6E3360ED14AB42CF27A537 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D97CEC46DB75AD02407C8E7E /* Build configuration list for PBXNativeTarget "MahSafe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33881FEDD5DC8B77A2A3C88F /* Debug */,
+				FC0D87AC0E8859C5BF161B4B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0D663EF7478859AE64806E7 /* Project object */;
+}

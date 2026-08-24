@@ -1,0 +1,444 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project MahSafe.xcodeproj -scheme MahSafe -configuration Debug -destination generic/platform=iOS -derivedDataPath .build CODE_SIGNING_ALLOWED=NO build
+
+Build settings from command line:
+    CODE_SIGNING_ALLOWED = NO
+
+2026-08-17 11:19:27.082 xcodebuild[76670:23558939]  DVTDeviceOperation: Encountered a build number "" that is incompatible with DVTBuildVersion.
+2026-08-17 11:19:27.085 xcodebuild[76670:23558920] [MT] DVTDeviceOperation: Encountered a build number "" that is incompatible with DVTBuildVersion.
+2026-08-17 11:19:27.294 xcodebuild[76670:23558920] [MT] IDERunDestination: Supported platforms for the buildables in the current scheme is empty.
+ComputePackagePrebuildTargetDependencyGraph
+
+Prepare packages
+
+CreateBuildRequest
+
+SendProjectDescription
+
+CreateBuildOperation
+
+ComputeTargetDependencyGraph
+note: Building targets in dependency order
+note: Target dependency graph (1 target)
+    Target 'MahSafe' in project 'MahSafe' (no dependencies)
+
+GatherProvisioningInputs
+
+CreateBuildDescription
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk -x c -c /dev/null
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --version --output-format xml1
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --print-asset-tag-combinations --output-format xml1 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Assets.xcassets
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/usr/bin/actool --version --output-format xml1
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc --version
+
+ExecuteExternalTool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld -version_details
+
+Build description signature: 9c17a4759526a69ede77ea068640f581
+Build description path: /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/XCBuildData/9c17a4759526a69ede77ea068640f581.xcbuilddata
+ClangStatCache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/SDKStatCaches.noindex/iphoneos26.5-23F73-688ef53f1462e2c8f657fdc38a81448f32daed1954a7d5dd0789fcaf2a9bb78b.sdkstatcache
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe.xcodeproj
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk -o /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/SDKStatCaches.noindex/iphoneos26.5-23F73-688ef53f1462e2c8f657fdc38a81448f32daed1954a7d5dd0789fcaf2a9bb78b.sdkstatcache
+
+WriteAuxiliaryFile /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe_const_extract_protocols.json (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    write-file /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe_const_extract_protocols.json
+
+Ld /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app/__preview.dylib normal (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Xlinker -reproducible -target arm64-apple-ios15.0 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk -O0 -L/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -F/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -install_name @rpath/MahSafe.debug.dylib -Xlinker -dead_strip -rdynamic -Xlinker -no_deduplicate -Xlinker -dependency_info -Xlinker /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe_dependency_info.dat -o /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app/__preview.dylib
+
+CompileStoryboard /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Base.lproj/LaunchScreen.storyboard (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --module MahSafe --output-partial-info-plist /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Base.lproj/LaunchScreen-SBPartialInfo.plist --auto-activate-custom-fonts --target-device iphone --minimum-deployment-target 15.0 --output-format human-readable-text /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Base.lproj/LaunchScreen.storyboard --compilation-directory /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Base.lproj
+
+SwiftDriver MahSafe normal arm64 com.apple.xcode.tools.swift.compiler (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    builtin-SwiftDriver -- /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc -module-name MahSafe -Onone @/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.SwiftFileList -DDEBUG -enable-bare-slash-regex -enable-experimental-feature DebugDescriptionMacro -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk -target arm64-apple-ios15.0 -g -module-cache-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex -Xfrontend -serialize-debugging-options -enable-testing -index-store-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Index.noindex/DataStore -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -swift-version 5 -I /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -F /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -c -j10 -enable-batch-mode -incremental -Xcc -ivfsstatcache -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/SDKStatCaches.noindex/iphoneos26.5-23F73-688ef53f1462e2c8f657fdc38a81448f32daed1954a7d5dd0789fcaf2a9bb78b.sdkstatcache -output-file-map /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-OutputFileMap.json -use-frontend-parseable-output -save-temps -no-color-diagnostics -explicit-module-build -module-cache-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -clang-scanner-module-cache-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex -sdk-module-cache-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex -serialize-diagnostics -emit-dependencies -emit-module -emit-module-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.swiftmodule -validate-clang-modules-once -clang-build-session-file /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Session.modulevalidation -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/swift-overrides.hmap -emit-const-values -Xfrontend -const-gather-protocols-file -Xfrontend /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe_const_extract_protocols.json -Xcc -iquote -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-generated-files.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-own-target-headers.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-all-target-headers.hmap -Xcc -iquote -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-project-headers.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/include -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources-normal/arm64 -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources/arm64 -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources -Xcc -DDEBUG\=1 -emit-objc-header -emit-objc-header-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-Swift.h -working-directory /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe -experimental-emit-module-separately -disable-cmo
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_AvailabilityInternal-7GDE2Z5DDVHW1V9PETE5PHEYG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_stdbool-BM9T2FXQPUNHZKSBKHALXFOZ1.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/ptrauth-5R3LYB0RXB5HX1I429XUEXBLK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_stddef-29PEG6NDQUJYJXCVW08ZZ9ZUH.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/ptrcheck-96SJ6NK108DA70UE0880SO0X1.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_SwiftConcurrencyShims-CKVK3TYSWVS98Y7F8C2FX42RW.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_stdarg-S4E5IF5BQJBXPFMPPTMS27SJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/SwiftShims-DKJZ55N27P0P2I9WQ8TH4XEF9.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_float-6TAX345R0F1LTRO1KFVSL12WP.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/DeveloperToolsSupport-EBXBNFOMFN3L846ZV6G7U8O0Z.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_DarwinFoundation1-91CAWWGUL5AEZSJA8GTMOBVFD.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_limits-EC52LJ8K3FLF7D0XQ535D7MJO.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_DarwinFoundation2-CUQVGXRUA90YQ0HW15HYS6WVT.pcm
+
+ProcessInfoPlistFile /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app/Info.plist /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Info.plist (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    builtin-infoPlistUtility /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Info.plist -producttype com.apple.product-type.application -genpkginfo /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -additionalcontentfile /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Base.lproj/LaunchScreen-SBPartialInfo.plist -additionalcontentfile /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/assetcatalog_generated_info.plist -requiredArchitecture arm64 -o /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app/Info.plist
+
+LinkStoryboards (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --module MahSafe --target-device iphone --minimum-deployment-target 15.0 --output-format human-readable-text --link /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/MahSafe.app /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Base.lproj/LaunchScreen.storyboardc
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/sys_types-1APIFXDJZYW69CJWX67DZ4ENO.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_stdint-9QPJW1MF24WXUS97DJK4NNDVK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_tgmath-8WFDXMSQEKXII71KGGVOBO9Y0.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_stdatomic-3ZKHDDMV0W278KV9739H0Z06J.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_DarwinFoundation3-EFYQQQULMFO6B6NF1NGA9T14A.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_intrinsics-1IDKEMYPKBM9I3FDYCI7Q5CRR.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/_Builtin_inttypes-7R0LQT511JJEIL7CH85FQ2FRX.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Darwin-8KG6L9FJ70XGWVKTUR1FUIIVD.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/simd-8NN8HDEN6YRLJ6X3XCTOB3JDX.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/MachO-3M5QVW2XCABRLMEWM3R9UCAPY.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/ObjectiveC-T4VVOG8AVUFQBVVLDXJ9ZRCF.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/os_object-AAFY6H12PDNK35BPUA1GLC8T8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Spatial-1MPZV8ZA3RU1W022WB44H2V2M.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/os_workgroup-273OY7YU2CGLSYLL2B93AFEPB.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Dispatch-AV8Q56X0B8SUTPG43EWGD5KDJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/XPC-D3A1LQ9OTZQMP9I1TENI9WOCT.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/dnssd-8W8VZNVMTP1QIEZWNR8GIWJ06.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreFoundation-EULJ0K5B74CTZH6C53KVXOC3K.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/os-7K8XQ0A08RQJT1PLGD6Q92RK4.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CFNetwork-T6ER0L2L6TPM385JUBR8WM13.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreAudioTypes-Z3KW4LRHO6NCZELJKYZGD640.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Security-8GG39WID2F3TMKQJ61ZUF0XRE.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreGraphics-16A5KGM4CZHMS93EI6F6ZTN7H.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreAudio-9MB6EDGPMD8PQ3ZNOLLDN5606.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Foundation-6NNY9DIF74OMO6GVBNP4MSSQN.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/ImageIO-BTPUHKTJRN3NUL8IDP8K1I4L0.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreText-9MHIH30LGHSA2CB7GJA3MSAMK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/UniformTypeIdentifiers-7F0MEIOZ8BYLHVE0EV87A24JY.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/FileProvider-26NASTYU2RU92617V9YM28U9J.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Accessibility-A40QE3O2K6DY9N41CG415H14.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/UIUtilities-1BE979QK4ZY4GMFAD91OAQO0B.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreTransferable-3TC7DOU0R21JQOK5AP9PTS6Y4.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/ModelIO-ATJGHF1WYVTEUV9N8D36CSTYJ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/UserNotifications-A0Z7XM4MO5YMY26HY9WSKQARS.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreMIDI-7VAMM8J52XIN7JCYD7IWH7ZJ7.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Network-58KN0S9UIJVXJVE7F6V4P91F5.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Symbols-3M00T27II7XI75K9R80N201JC.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/DataDetection-2IDZVEOPA7JZSM877OJ1M2KQC.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreData-60VTO4Z51TFFWHUXVNGVJ2Y8I.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/IOSurface-AORQUIVFK9LN7Q4BFYTZPF6ID.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/OSLog-7R5V0SEPXCQP5L64GBQ91LD0Y.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/AudioToolbox-MP3W89RXK2FH58V5PZZRBV21.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/AVRouting-92B63HZ47R5OKJHS2DGNS76EK.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Metal-M3KO3EYMRNQXGJRCK0YVDZU8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/OpenGLES-A5YLTEK8XTVBTK8N8T2JKJ6HI.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreVideo-AMBKV4I8USPMO3X7XIRLO64PG.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/QuartzCore-40GUB18I5KKACO5FTC4KMYRU2.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreMedia-74X7USDFI3JD9PAR6TZ0SO26C.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/CoreImage-E6PM6M57OA6YJAS6NZSSW4D0U.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/SwiftUICore-DTOD8EMMVOV1ASZFO8OEK9054.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/UIKit-7G32Q3TGGIJIHCEBWO1HLL2J6.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/MediaToolbox-D61BVK6IC15Z25EDQYZGBSJF4.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/AVFAudio-C9ARQE9JLMDP3CCJAHBG70A26.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/AVFoundation-9K2TDMPAJDQPZJRCKLJU5AISQ.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/GLKit-2R2ROVPZ6L0VCLDDZ78ADZQTP.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/SwiftUI-DPBH6CPQIPE1MOP35ZNCJF0L8.pcm
+
+SwiftExplicitDependencyGeneratePcm arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/SpriteKit-I2FKWHKIA2UE2EWGEZO4BKHR.pcm
+
+SwiftEmitModule normal arm64 Emitting\ module\ for\ MahSafe (in target 'MahSafe' from project 'MahSafe')
+
+EmitSwiftModule normal arm64 (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift:44:28: error: cannot find type 'BlitzNode' in scope
+    private var blitzNode: BlitzNode?
+                           ^~~~~~~~~
+/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift:46:34: error: cannot find type 'BlitzResultNode' in scope
+    private var blitzResultNode: BlitzResultNode?
+                                 ^~~~~~~~~~~~~~~
+/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift:49:27: error: cannot find type 'BlitzRun' in scope
+    private var blitzRun: BlitzRun?
+                          ^~~~~~~~
+/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift:58:16: error: cannot find type 'BlitzRun' in scope
+    var blitz: BlitzRun? { blitzRun }
+               ^~~~~~~~
+
+Failed frontend command:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift-frontend -frontend -emit-module -experimental-skip-non-inlinable-function-bodies-without-types /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/AppDelegate.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/AudioManager.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/BackMark.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ButtonNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ChapterIntroNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ConfirmDialogNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/DailyChallenge.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/DailyNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Extensions.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/GameViewController.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/HUDNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/Haptics.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/InputController.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Layout.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/Level.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/LevelRepository.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/LevelSelectNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongRenderer.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongTile.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongType.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/MainMenuNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/OnboardingNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/PanelFactory.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/ParticleField.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/Puzzle.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleGenerator.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleValidator.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ResultNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RuleBannerNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleEngine.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleKind.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RulesReferenceNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeBolts.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeDoor.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeHandle.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeLock.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/SaveManager.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/SceneDelegate.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/SettingsNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StarNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/Statistics.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StatisticsNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Theme.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/TileRack.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/TileState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Timing.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Utilities.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources/GeneratedAssetSymbols.swift -target arm64-apple-ios15.0 -module-can-import-version DeveloperToolsSupport 23.40.26 23.40.26 -module-can-import-version SwiftUI 7.5.3 7.5.3 -module-can-import-version UIKit 9126.5.5.2 9126.5.5 -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libFoundationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#FoundationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libObservationMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#ObservationMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libPreviewsMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#PreviewsMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftMacros -load-resolved-plugin /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib/swift/host/plugins/libSwiftUIMacros.dylib\#/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/swift-plugin-server\#SwiftUIMacros -disable-implicit-swift-modules -Xcc -fno-implicit-modules -Xcc -fno-implicit-module-maps -explicit-swift-module-map-file /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-dependencies-1.json -Xllvm -aarch64-use-tbi -enable-objc-interop -stack-check -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.5.sdk -I /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -F /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos -no-color-diagnostics -Xcc -fno-color-diagnostics -enable-testing -g -debug-info-format\=dwarf -dwarf-version\=4 -module-cache-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/SwiftExplicitPrecompiledModules -swift-version 5 -Onone -D DEBUG -serialize-debugging-options -const-gather-protocols-file /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe_const_extract_protocols.json -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -empty-abi-descriptor -validate-clang-modules-once -clang-build-session-file /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/ModuleCache.noindex/Session.modulevalidation -Xcc -working-directory -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe -enable-anonymous-context-mangled-names -file-compilation-dir /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe -Xcc -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -Xcc -ivfsstatcache -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/SDKStatCaches.noindex/iphoneos26.5-23F73-688ef53f1462e2c8f657fdc38a81448f32daed1954a7d5dd0789fcaf2a9bb78b.sdkstatcache -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-generated-files.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-own-target-headers.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-all-target-headers.hmap -Xcc -iquote -Xcc /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/MahSafe-project-headers.hmap -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Products/Debug-iphoneos/include -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources-normal/arm64 -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources/arm64 -Xcc -I/Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources -Xcc -DDEBUG\=1 -no-auto-bridging-header-chaining -module-name MahSafe -frontend-parseable-output -disable-clang-spi -clang-target arm64-apple-ios26.5 -target-sdk-version 26.5 -target-sdk-name iphoneos26.5 -in-process-plugin-server-path /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/libSwiftInProcPluginServer.dylib -emit-module-doc-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.swiftdoc -emit-module-source-info-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.swiftsourceinfo -emit-objc-header-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-Swift.h -serialize-diagnostics-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-primary-emit-module.dia -emit-dependencies-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe-primary-emit-module.d -o /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.swiftmodule -emit-abi-descriptor-path /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/Objects-normal/arm64/MahSafe.abi.json
+SwiftCompile normal arm64 Compiling\ MainMenuNode.swift,\ OnboardingNode.swift,\ PanelFactory.swift,\ ParticleField.swift,\ Puzzle.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/MainMenuNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/OnboardingNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/PanelFactory.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/ParticleField.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/Puzzle.swift (in target 'MahSafe' from project 'MahSafe')
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/MainMenuNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/OnboardingNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/PanelFactory.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/ParticleField.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/Puzzle.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ SettingsNode.swift,\ StarNode.swift,\ Statistics.swift,\ StatisticsNode.swift,\ Theme.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/SettingsNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StarNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/Statistics.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StatisticsNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Theme.swift (in target 'MahSafe' from project 'MahSafe')
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/SettingsNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StarNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/Statistics.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/StatisticsNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Theme.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ LevelRepository.swift,\ LevelSelectNode.swift,\ MahjongRenderer.swift,\ MahjongTile.swift,\ MahjongType.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/LevelRepository.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/LevelSelectNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongRenderer.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongTile.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongType.swift (in target 'MahSafe' from project 'MahSafe')
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/LevelRepository.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/LevelSelectNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongRenderer.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongTile.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/MahjongType.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ RuleEngine.swift,\ RuleKind.swift,\ RulesReferenceNode.swift,\ SafeBolts.swift,\ SafeDoor.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleEngine.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleKind.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RulesReferenceNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeBolts.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeDoor.swift (in target 'MahSafe' from project 'MahSafe')
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleEngine.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/RuleKind.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RulesReferenceNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeBolts.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Safe/SafeDoor.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ AppDelegate.swift,\ AudioManager.swift,\ BackMark.swift,\ ButtonNode.swift,\ ChapterIntroNode.swift,\ ConfirmDialogNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/AppDelegate.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/AudioManager.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/BackMark.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ButtonNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ChapterIntroNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ConfirmDialogNode.swift (in target 'MahSafe' from project 'MahSafe')
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/AppDelegate.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/AudioManager.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Mahjong/BackMark.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ButtonNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ChapterIntroNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ConfirmDialogNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ DailyChallenge.swift,\ DailyNode.swift,\ Extensions.swift,\ GameScene.swift,\ GameSession.swift,\ GameState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/DailyChallenge.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/DailyNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Extensions.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameState.swift (in target 'MahSafe' from project 'MahSafe')
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Persistence/DailyChallenge.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/DailyNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Extensions.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameScene.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameSession.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/GameState.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ GameViewController.swift,\ HUDNode.swift,\ Haptics.swift,\ InputController.swift,\ Layout.swift,\ Level.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/GameViewController.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/HUDNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/Haptics.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/InputController.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Layout.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/Level.swift (in target 'MahSafe' from project 'MahSafe')
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/GameViewController.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/HUDNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Audio/Haptics.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Game/InputController.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Layout.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Level/Level.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ PuzzleGenerator.swift,\ PuzzleState.swift,\ PuzzleValidator.swift,\ ResultNode.swift,\ RuleBannerNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleGenerator.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleValidator.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ResultNode.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RuleBannerNode.swift (in target 'MahSafe' from project 'MahSafe')
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleGenerator.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleState.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/PuzzleValidator.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/ResultNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/RuleBannerNode.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 Compiling\ TileRack.swift,\ TileState.swift,\ Timing.swift,\ Utilities.swift,\ GeneratedAssetSymbols.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/TileRack.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/TileState.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Timing.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Utilities.swift /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources/GeneratedAssetSymbols.swift (in target 'MahSafe' from project 'MahSafe')
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/UI/TileRack.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Puzzle/TileState.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Timing.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/MahSafe/Common/Utilities.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+SwiftCompile normal arm64 /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe/.build/Build/Intermediates.noindex/MahSafe.build/Debug-iphoneos/MahSafe.build/DerivedSources/GeneratedAssetSymbols.swift (in target 'MahSafe' from project 'MahSafe')
+    cd /Users/hades/Desktop/Code/26/待用/mah/0816-1/MahSafe
+    
+
+** BUILD FAILED **
+
+
+The following build commands failed:
+	EmitSwiftModule normal arm64 (in target 'MahSafe' from project 'MahSafe')
+	SwiftEmitModule normal arm64 Emitting\ module\ for\ MahSafe (in target 'MahSafe' from project 'MahSafe')
+	Building project MahSafe with scheme MahSafe and configuration Debug
+(3 failures)

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game id="MahSafe">
+    <AppInfo>
+        <name>Mahjong Safe</name>
+        <version>1.0</version>
+        <build>1</build>
+        <platform>iOS</platform>
+        <changelog>new version</changelog>
+    </AppInfo>
+
+    <gameDescription>
+        <shortDescription>A tactile Mahjong-inspired puzzle game set in a cozy night-time game room.</shortDescription>
+        <fullDescription>Each safe contains a Mahjong board with a hidden rule. Study the tiles, spot the pattern, and solve the lock before time runs out.</fullDescription>
+        <content>
+            <item>100 handcrafted safes</item>
+            <item>10 chapters</item>
+            <item>Daily challenge</item>
+            <item>One-minute timed challenge</item>
+            <item>Up to three stars per level</item>
+            <item>Hints and achievements</item>
+            <item>No Mahjong experience required</item>
+        </content>
+    </gameDescription>
+
+    <gameplay>
+        <objective>Solve the hidden rule on each Mahjong board and open the safe.</objective>
+        <controls>
+            <control type="tap">Select a tile or answer a pattern puzzle.</control>
+            <control type="swipe">Rotate a tile by 90 degrees.</control>
+            <control type="longPress">Inspect the hidden back of a tile.</control>
+            <control type="twoTileTap">Swap the positions of two tiles.</control>
+            <control type="handle">Submit an arrangement or rotation puzzle.</control>
+            <control type="confirm">Submit the current arrangement when Confirm is available.</control>
+        </controls>
+        <starSystem>
+            <startingStars>3</startingStars>
+            <hintPenalty>Using a hint removes one star.</hintPenalty>
+            <timePenalty>Missing the two-star or three-star time target removes a star.</timePenalty>
+            <maximumStarsPerLevel>3</maximumStarsPerLevel>
+            <maximumTotalStars>300</maximumTotalStars>
+        </starSystem>
+        <hintSystem>
+            <maximumHintsPerLevel>3</maximumHintsPerLevel>
+            <hint level="1">Explains the puzzle rule.</hint>
+            <hint level="2">Points out what to look for.</hint>
+            <hint level="3">Highlights the exact tiles.</hint>
+        </hintSystem>
+    </gameplay>
+
+    <chapters total="10" levelsTotal="100">
+        <chapter number="1" levels="1-10"><title>The Loose Tile</title><subtitle>Tap &amp; repeat</subtitle><focus>Unique tile and repeated patterns</focus></chapter>
+        <chapter number="2" levels="11-20"><title>East Wind Turns</title><subtitle>Sequence</subtitle><focus>Sequences and winding paths</focus></chapter>
+        <chapter number="3" levels="21-30"><title>One Seat Empty</title><subtitle>Gaps &amp; impostors</subtitle><focus>Missing tiles and impostors</focus></chapter>
+        <chapter number="4" levels="31-40"><title>The Crooked Wall</title><subtitle>Rotation</subtitle><focus>Tile rotation</focus></chapter>
+        <chapter number="5" levels="41-50"><title>Across the Lacquer</title><subtitle>Reflection</subtitle><focus>Mirror layouts</focus></chapter>
+        <chapter number="6" levels="51-60"><title>Marks on the Back</title><subtitle>Flip &amp; direction</subtitle><focus>Hidden marks and tile direction</focus></chapter>
+        <chapter number="7" levels="61-70"><title>The Dealer's Cut</title><subtitle>Swap &amp; replace</subtitle><focus>Tile swapping and replacement</focus></chapter>
+        <chapter number="8" levels="71-80"><title>Three Hands Deep</title><subtitle>Chained rules</subtitle><focus>Multiple rules in sequence</focus></chapter>
+        <chapter number="9" levels="81-90"><title>Tea Gone Cold</title><subtitle>Timed</subtitle><focus>Timed safes</focus><timed>true</timed></chapter>
+        <chapter number="10" levels="91-100"><title>Last Table Standing</title><subtitle>All rules</subtitle><focus>Combined puzzle rules</focus></chapter>
+    </chapters>
+
+    <ruleTypes>
+        <rule id="dailyCipher" family="tapOrder"><shortTitle>Four-Band Cipher</shortTitle><hint>Rows count by ±1. Tap each break in any order.</hint></rule>
+        <rule id="uniqueSingle" family="tapOrder"><shortTitle>The Lone Tile</shortTitle><hint>Only one tile appears exactly once. Find it.</hint></rule>
+        <rule id="uniquePair" family="tapOrder"><shortTitle>The Only Pair</shortTitle><hint>Only one pair of identical tiles exists. Tap both.</hint></rule>
+        <rule id="decoy" family="tapOrder"><shortTitle>The Impostor</shortTitle><hint>One tile breaks the pattern. Find the impostor.</hint></rule>
+        <rule id="countOrder" family="tapOrder"><shortTitle>Count &amp; Click</shortTitle><hint>Count each tile group. Tap one tile per group, most frequent first.</hint></rule>
+        <rule id="sequence" family="tapOrder"><shortTitle>Winding Path</shortTitle><hint>The tiles form a sequence. Follow the winding path.</hint></rule>
+        <rule id="mirror" family="rearrange"><shortTitle>Mirror Image</shortTitle><hint>The safe must show its own mirror image. Swap tiles to match it.</hint></rule>
+        <rule id="swap" family="rearrange"><shortTitle>The Shuffle</shortTitle><hint>Swap tiles until the arrangement matches the hidden order.</hint></rule>
+        <rule id="rotation" family="rotateTo"><shortTitle>Set Upright</shortTitle><hint>Every tile must stand upright. Rotate the tilted ones.</hint></rule>
+        <rule id="direction" family="rotateTo"><shortTitle>Point Inward</shortTitle><hint>Point every tile toward the center of the board.</hint></rule>
+        <rule id="flip" family="reveal"><shortTitle>Hidden Marks</shortTitle><hint>Flip tiles to reveal their backs. Find the odd one.</hint></rule>
+        <rule id="missing" family="place"><shortTitle>The Gap</shortTitle><hint>One tile is missing. Complete the pattern.</hint></rule>
+        <rule id="replacement" family="place"><shortTitle>The Substitute</shortTitle><hint>One tile is wrong. Replace it with the correct one.</hint></rule>
+        <rule id="multi" family="multi"><shortTitle>The Chain</shortTitle><hint>Several rules chain together. Solve them in order.</hint></rule>
+    </ruleTypes>
+
+    <rulesReference>
+        <page title="The Vault">
+            <section heading="Your Goal">
+                <text>Every safe holds a mahjong board hiding a secret. Solve the rule shown in the HUD to open it.</text>
+                <text>There are 100 safes across 10 chapters. New rules are introduced a few at a time, so you always know what to do.</text>
+            </section>
+            <section heading="Four Moves">
+                <text>Tap — select a tile to answer a puzzle.</text>
+                <text>Swipe — drag across a tile to rotate it 90°.</text>
+                <text>Hold — long-press a tile to peek at its hidden back.</text>
+                <text>Swap — tap two tiles to exchange their positions.</text>
+            </section>
+            <section heading="Submitting"><text>Tap-order puzzles check as you go. Transform puzzles (swap / rotate) need you to pull the safe handle, or press Confirm, to submit your answer.</text></section>
+        </page>
+        <page title="Hints &amp; Stars">
+            <section heading="Three Levels of Help">
+                <text>The HUD hint button gives up to three hints per level.</text>
+                <text>Hint 1 explains the rule. Hint 2 points out what to look for. Hint 3 lights up the exact tiles.</text>
+            </section>
+            <section heading="Earning Stars">
+                <text>Every level starts at 3 stars.</text>
+                <text>Use a hint and you lose a star. Beat the time targets and you keep them.</text>
+                <text>Slower than the two-star or three-star par time costs you a star each.</text>
+            </section>
+            <section heading="Timed Safes"><text>Chapter 9 safes tick down in real time. Open them before the clock runs out — or the safe slams shut and you retry.</text></section>
+        </page>
+        <page title="Find the Odd One">
+            <section heading="The Lone Tile"><text>Every tile appears in pairs — except one. Tap the tile that appears exactly once.</text></section>
+            <section heading="The Only Pair"><text>Every tile appears once — except a single identical pair. Tap both tiles of that pair.</text></section>
+            <section heading="The Impostor"><text>One tile breaks a visible pattern (for example, the only non-sequence tile). Spot it and tap it.</text></section>
+        </page>
+        <page title="Count &amp; Sequence">
+            <section heading="Count &amp; Click"><text>Count how many times each tile type appears on the board, then tap one tile of each type from most frequent to least frequent.</text></section>
+            <section heading="The Winding Path"><text>The tiles hide a path. Tap them in the order the path winds across the board.</text></section>
+        </page>
+        <page title="Transform the Board">
+            <section heading="Mirror Image"><text>The board must end up as the mirror of its current layout. Swap tiles to match the reflection, then submit.</text></section>
+            <section heading="The Shuffle"><text>The tiles are scrambled from a hidden order. Swap them back into the correct arrangement, then submit.</text></section>
+            <section heading="Set Upright"><text>Some tiles lie on their side. Swipe each tilted tile until every one stands upright, then submit.</text></section>
+            <section heading="Point Inward"><text>Each tile should point toward the center of the board. Rotate the arrows until all point inward, then submit.</text></section>
+        </page>
+        <page title="Peek &amp; Place">
+            <section heading="Hidden Marks"><text>Every tile hides a mark on its back. Long-press to peek, find the tile whose mark is different, and tap it.</text></section>
+            <section heading="The Gap"><text>One tile is missing from the board. Tap the gap, then pick the correct tile from the rack below.</text></section>
+            <section heading="The Substitute"><text>One tile on the board is wrong. Tap it, then choose the correct replacement from the rack.</text></section>
+        </page>
+        <page title="The Chain">
+            <section heading="Multi-Rule Safes">
+                <text>Late chapters chain several rules into one safe. The HUD shows you each step as you reach it.</text>
+                <text>Complete each sub-task in order — the safe only opens once every link of the chain is solved.</text>
+            </section>
+            <section heading="Tips">
+                <text>Use moves deliberately: fewer moves and no hints keep all three stars.</text>
+                <text>Stuck? A hint costs a star but never locks the level.</text>
+            </section>
+        </page>
+    </rulesReference>
+
+    <specialModes>
+        <dailyChallenge>
+            <title>Today's hand</title>
+            <type>Four-band count</type>
+            <description>Each row steps up or down by 1. Tap the one number that cheats · any row order.</description>
+            <button>Play today's hand</button>
+            <button>Back to tables</button>
+            <streak active="🔥 {days} days at the table" inactive="No run started" />
+            <status completed="Finished today in {time}" pending="Still waiting to be dealt" best="Best run: {best}" />
+        </dailyChallenge>
+        <oneMinuteDeal>
+            <title>One-minute deal</title>
+            <description>Start with 60 seconds. Every table opened adds five more. See how long your hands hold up.</description>
+            <bestRun available="Best run {count}" empty="No run on the ledger" />
+            <result title="The tea is cold" openedTables="TABLES OPENED" newRecord="★ New mark" retry="PLAY AGAIN" menu="MENU" />
+        </oneMinuteDeal>
+    </specialModes>
+
+    <mainMenu>
+        <eyebrow>NO. 08 · NIGHT TABLE</eyebrow>
+        <title>Mah Safe</title>
+        <subtitle>Tiles, tells, and a stubborn brass lock</subtitle>
+        <progress>Tables {cleared}/100 · Stars {totalStars} · Marks {achievementCount}</progress>
+        <footer>House copy 08 · played offline</footer>
+        <buttons>
+            <button>Open a table</button>
+            <button>Today's hand</button>
+            <button>One-minute deal</button>
+            <button>House rules</button>
+            <button>Table drawer</button>
+            <button>Sound: On</button>
+            <button>Sound: Off</button>
+            <button>Haptics: On</button>
+            <button>Haptics: Off</button>
+            <button>Reset Progress</button>
+        </buttons>
+    </mainMenu>
+
+    <levelSelection>
+        <title>The table book</title>
+        <roomLabel>Room {chapterNumber}</roomLabel>
+        <progress>Played {cleared}/{chapterLevels} · Stars {stars}/{maximumStars}</progress>
+        <navigation><button>Back</button><button>Previous</button><button>Next</button></navigation>
+    </levelSelection>
+
+    <onboarding>
+        <page><glyph>🔐</glyph><title>Open the Vault</title><body>Each safe hides one correct answer. Study the tiles, then tap, rotate, flip or swap to match it before the safe seals.</body></page>
+        <page><glyph>🎮</glyph><title>Four Ways to Play</title><body>Tap to pick, swipe to rotate, long-press to peek behind a tile, and tap two tiles to swap them. The instruction bar tells you which move a puzzle wants.</body></page>
+        <page><glyph>⭐️</glyph><title>Hints &amp; Stars</title><body>Stuck? Use a hint — three levels of help, and fewer hints means a higher star rating. Perfect runs earn special achievements.</body></page>
+        <actions><button>CONTINUE</button><button>SKIP BRIEFING</button><button>Open the table</button><button>Keep reading</button></actions>
+    </onboarding>
+
+    <inGameHud>
+        <button>CLUE</button><button>CLUE {remaining}</button><button>UNDO</button><button>Try the handle</button>
+        <label>MOVES 00</label><label>MOVES {moves}</label><label>OPENED {cleared}</label><label>One-minute deal</label><label>00:00</label><tag>HOUSE NOTE</tag>
+        <instruction>Found: {found}/{rows} · choose any row. Tap the number that breaks ±1.</instruction>
+        <instruction>Tap one tile per group, most frequent first.</instruction>
+        <instruction>Find the only matching pair. Tap both tiles.</instruction>
+        <instruction>Find the only tile that appears once.</instruction>
+        <instruction>Find the tile that breaks the pattern.</instruction>
+        <instruction>Follow the winding path and tap tiles in order.</instruction>
+        <instruction>Tap tiles in the hidden order.</instruction>
+        <instruction>Swap two tiles, then pull the lever.</instruction>
+        <instruction>Swipe to align tiles, then pull the lever.</instruction>
+        <instruction>Hold a tile to inspect its back. Find the false mark.</instruction>
+        <instruction>Select the empty socket. Then choose a tile below.</instruction>
+        <instruction>Follow each instruction in order.</instruction>
+        <protocol>Protocol {current}/{total} · {hint}</protocol>
+        <error>That number still behaves. Find the one tile cheating the count.</error>
+    </inGameHud>
+
+    <resultScreen>
+        <buttons><button>Deal again</button><button>Next table</button><button>Table book</button></buttons>
+        <labels>
+            <label>Table time {time}</label><label>★ New mark</label><label>New marks · {achievements}</label>
+            <label>Leave this table? The hand will be lost.</label><label>Leave table</label><label>Keep Playing</label><label>Leave</label>
+        </labels>
+    </resultScreen>
+
+    <settings>
+        <title>Table drawer</title>
+        <about>Mah Safe · v1.0. A small tiles-and-locks puzzle for a quiet table.</about>
+        <button>Sound: On</button><button>Sound: Off</button><button>Music: On</button><button>Music: Off</button>
+        <button>Haptics: On</button><button>Haptics: Off</button><button>Open the ledger</button><button>Clear the notebook</button>
+        <button>Reset Progress</button><button>Tap again to confirm</button>
+    </settings>
+
+    <statistics>
+        <title>The ledger</title>
+        <metric id="starsKept">Stars kept</metric><metric id="tablesOpened">Tables opened</metric><metric id="cleanHands">Clean hands</metric>
+        <metric id="cleanRate">Clean rate</metric><metric id="timeAtTable">Time at table</metric><metric id="movesMade">Moves made</metric>
+    </statistics>
+
+    <achievementCatalog>
+        <achievement id="clear_1" symbol="🔓"><title>First Crack</title><description>Open your first safe.</description></achievement>
+        <achievement id="clear_10" symbol="🗝️"><title>A Seat Saved</title><description>Open 10 tables.</description></achievement>
+        <achievement id="clear_25" symbol="🛡️"><title>Quarter Night</title><description>Open 25 tables.</description></achievement>
+        <achievement id="clear_50" symbol="⚜️"><title>Half the House</title><description>Open 50 tables.</description></achievement>
+        <achievement id="clear_100" symbol="👑"><title>Last Call</title><description>Open all 100 tables.</description></achievement>
+        <achievement id="star_1" symbol="⭐"><title>A Glimmer</title><description>Earn your first star.</description></achievement>
+        <achievement id="star_30" symbol="🥉"><title>Thirty on the Tray</title><description>Collect 30 stars.</description></achievement>
+        <achievement id="star_90" symbol="🥈"><title>The Brass Stack</title><description>Collect 90 stars.</description></achievement>
+        <achievement id="star_180" symbol="🥇"><title>Under the Lamp</title><description>Collect 180 stars.</description></achievement>
+        <achievement id="star_300" symbol="💎"><title>The House Remembers</title><description>Collect all 300 stars.</description></achievement>
+        <achievement id="perfect_1" symbol="✨"><title>Clean Hand</title><description>Earn 3 stars on any table.</description></achievement>
+        <achievement id="perfect_10" symbol="🌟"><title>Ten Clean Hands</title><description>Earn 3 stars on 10 tables.</description></achievement>
+        <achievement id="perfect_50" symbol="🏵️"><title>Quiet Mastery</title><description>Earn 3 stars on 50 tables.</description></achievement>
+        <achievement id="nohint_1" symbol="🧠"><title>No Peeking</title><description>Open a table without hints.</description></achievement>
+        <achievement id="nohint_25" symbol="🎯"><title>Hands in Your Pockets</title><description>Open 25 tables without hints.</description></achievement>
+        <achievement id="fast_1" symbol="⚡"><title>Quick Count</title><description>Open a table in under 25 seconds.</description></achievement>
+        <achievement id="fast_10" symbol="🚀"><title>Before the Tea Cools</title><description>Open 10 tables in under 25 seconds.</description></achievement>
+        <achievement id="timed_1" symbol="⏱️"><title>Against the Bell</title><description>Open a timed table.</description></achievement>
+        <achievement id="timed_10" symbol="🕰️"><title>Last Sip</title><description>Open all 10 timed tables.</description></achievement>
+        <chapterAchievement id="chapter_{number}" symbol="🏆"><title>{chapterTitle} Master</title><description>Clear every level in Chapter {number}.</description></chapterAchievement>
+    </achievementCatalog>
+
+    <backMarks><mark>Dot</mark><mark>Ring</mark><mark>Triangle</mark><mark>Square</mark><mark>Diamond</mark><mark>Cross</mark></backMarks>
+
+    <safe>
+        <serialLabel>BRASS LOCK / TABLE 08</serialLabel>
+        <verificationLabel>PULL TO TRY</verificationLabel>
+    </safe>
+</game>
